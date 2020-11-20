@@ -28,4 +28,3 @@ En esta página también encontramos las siguientes alertas:
 ## Trampas
 Consideramos trampas a aquellos fallos que no detecta nuestra herramienta pero que no son correctos. Encontramos los siguientes:
  - Error de texto alternativo: En el hero section de la página, el texto alternativo que nos aparece para el logo es "b_", que no nos da ninguna información sobre esa imagen.
- - El icono de gitHub está insertado como iFrame, por lo que podría ser interesante añadir un título que describa que ese elemento te llevará al repositorio de gitHub de la página.
